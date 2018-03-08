@@ -33,7 +33,7 @@ a [Java Class]
 с различни входни стойности.
 
 7.      
-Тествайте **решението си в judge ****системата**: [https://judge.softuni.bg/Contests/Practice/Index/151#0](https://judge.softuni.bg/Contests/Practice/Index/151#0). Трябва да получите 100 точки (напълно
+Тествайте **решението си в judge системата**: [https://judge.softuni.bg/Contests/Practice/Index/151#0](https://judge.softuni.bg/Contests/Practice/Index/151#0). Трябва да получите 100 точки (напълно
 коректно решение).
 
 
