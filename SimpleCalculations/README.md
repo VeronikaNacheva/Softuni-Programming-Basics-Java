@@ -78,4 +78,26 @@ a [Java Class]
 е време за **тестване в judge системата**: [https://judge.softuni.bg/Contests/Practice/Index/151#1](https://judge.softuni.bg/Contests/Practice/Index/151#1). Решението би трябвало да бъде прието
 като напълно коректно.
 
+
+### 3.  Поздравпо име
+
+Да се напише програма, която **чете от конзолата име на човек**,
+въведено от потребителя, и отпечатва “Hello,&lt;name&gt;!”, където &lt;name&gt;е въведеното преди това име.
+
+1.      
+Първо
+създайте **нов Java клас със име “**p03_Greeting**” в решението “**Simple Calculations**”:
+
+2.      
+**Напишете кода** на програмата.
+
+3.      
+**Стартирайте** програмата с **[Ctrl+Shift+F10]**и я
+тествайте.
+
+4.      
+Тествайте
+в **judge системата**: [https://judge.softuni.bg/Contests/Practice/Index/151#2](https://judge.softuni.bg/Contests/Practice/Index/151#2). Преди да пратите решението сложете
+коментар на втория ред, който печата “Enter your name”:
+
  
