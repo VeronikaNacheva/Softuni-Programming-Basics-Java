@@ -1,5 +1,3 @@
-package SimpleCalculations;
-
 import java.util.Scanner;
 
 public class P09_CelsiusToFarenheit {

@@ -1,6 +1,3 @@
-package SimpleCalculations;
-
-import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class P07_RectangleArea2D {
