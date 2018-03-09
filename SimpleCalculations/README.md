@@ -156,3 +156,51 @@ b2и h, въведени от
 4.      
 Тествайте
 решението си в **judge системата**: [https://judge.softuni.bg/Contests/Practice/Index/151#4](https://judge.softuni.bg/Contests/Practice/Index/151#4).
+
+
+
+### 6.  Периметър и лице на кръг
+
+Напишете
+програма, която чете от конзолата **число**r, въведено от потребителя, и пресмята и отпечатва **лицето** и **периметъра на кръг** / окръжност с радиус
+r.
+
+ 
+
+**вход**
+
+ 
+
+**изход**
+
+ 
+
+3
+
+ 
+
+Area = 28.2743338823081
+
+Perimeter = 18.8495559215388
+
+ 
+
+4.5
+
+ 
+
+Area = 63.6172512351933
+
+Perimeter = 28.2743338823081
+
+За изчисленията
+можете да използвате следните формули:
+
+·        
+area = Math.PI * r * r
+
+·        
+perimeter = 2 * Math.PI * r
+
+Тествайте
+решението си в **judge ****системата**: [https://judge.softuni.bg/Contests/Practice/Index/151#5](https://judge.softuni.bg/Contests/Practice/Index/151#5).
